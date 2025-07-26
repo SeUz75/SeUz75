@@ -1,6 +1,8 @@
 # Hello Welcome to my profile 👋
 
-Hey, my name is Stergios or SeUz75. I am a student or I've already graduated (in 1 month) from the university of Paisii Hilendarski, Plovdiv and also studied in the university of Coimbra, Portugal, Department of Informatics Engineering and im interested in a lot of things. Thats why you see Java/ C++/ C#/ HTML/ CSS/ Python/ JavaScript projects in my profile. Critical thinker and ready to adapt to everything.
+Hey, my name is Stergios or SeUz75. I am a student or I've already graduated from the university of Paisii Hilendarski, Plovdiv and also studied in the university of Coimbra, Portugal, Department of Informatics Engineering and im interested in a lot of things. Thats why you see Java/ C++/ C#/ HTML/ CSS/ Python/ JavaScript projects in my profile. Critical thinker and ready to adapt to everything. <br>
+Whats my experience ? 
+Well I've had 1 month intership at the Bulgarian firm MM Solutions. Learned about git/ gerrit, I've had my first code review in a task wrote in C++.
 ---
 
 ### 💼 Language and tools
